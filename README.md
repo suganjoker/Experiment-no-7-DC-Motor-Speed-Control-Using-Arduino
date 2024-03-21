@@ -1,4 +1,4 @@
-![Screenshot 2024-03-21 113255](https://github.com/suganjoker/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/105915942/e5b746f6-3c96-495b-a3a5-3acfb4ced6a8)![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/739cc470-48c8-4873-a730-6319b4afc602)
+
 ###  DATE: 21/03/2024
 
 ###  NAME: SUGAVARATHAN.L
